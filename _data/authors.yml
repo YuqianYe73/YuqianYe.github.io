@@ -1,13 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Yuqian Ye"
   uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  email       : "yuqianye@stanford.edu"
+  bio         : "M.S. student in Mechanical Engineering at Stanford University"
+  avatar      : "/images/avatar.jpg"
 
 Name2 Name2:
   name        : "Name2 Name2"
