@@ -16,17 +16,24 @@ I am currently seeking a Summer 2026 internship in robotics, sensing, or control
 
 Education
 ======
-<i class="fas fa-university"></i> [**Stanford University**](https://www.stanford.edu/)
+<i class="fas fa-university"></i> [**Stanford University**](https://www.stanford.edu/)  
 M.S. in Mechanical Engineering, 2024 – 2026 (Expected)  
 
 <i class="fas fa-university"></i> [**Zhejiang University**](https://www.zju.edu.cn/english/)  
 B.Eng. in Agricultural Engineering, 2020 – 2024  
 
-Awards
-======
-<i class="fas fa-medal"></i> [2025 ICRA Best Paper Award Finalist
+<h2>Awards</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;2025 IEEE ICRA Best Paper Award on Robot Manipulation and Locomotion Finalist](https://2025.ieee-icra.org/program/awards-and-finalists/)
+<p>
+  <i class="fas fa-medal"></i>
+  <a href="https://2025.ieee-icra.org/program/awards-and-finalists/" target="_blank" rel="noopener">
+    2025 ICRA Best Paper Award Finalist<br>
+    <span style="display:inline-block; margin-left: 1.6em;">
+      2025 IEEE ICRA Best Paper Award on Robot Manipulation and Locomotion Finalist
+    </span>
+  </a>
+</p>
+
 
 Projects
 ======
