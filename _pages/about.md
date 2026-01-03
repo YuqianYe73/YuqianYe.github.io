@@ -38,8 +38,7 @@ award2
 
 Projects
 ======
-FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
-------
+
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/FBG-camera.mp4" type="video/mp4">
@@ -51,7 +50,7 @@ FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
   </div>
 
   <div class="proj-text">
-    <h3>FBG-Based Wearable Tactile Sensing (Single-Finger Prototype)</h3>
+    <h3>FBG-Based Wearable Glove for Hand Motion and Tactile Sensing</h3>
 
     <p>
       We developed a single-finger, modular FBG-based wearable sensing prototype
