@@ -25,7 +25,7 @@ B.Eng. in Agricultural Engineering, 2020 – 2024
 <h2>Awards</h2>
 
 <p>
-  <i class="fas fa-medal" style="color: #f4c430;"></i>
+  <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
   <a href="https://2025.ieee-icra.org/program/awards-and-finalists/" target="_blank" rel="noopener">
     2025 ICRA Best Paper Award Finalist<br>
     <span style="display:inline-block; margin-left: 1.6em;">
