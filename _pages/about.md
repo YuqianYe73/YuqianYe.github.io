@@ -8,9 +8,9 @@ redirect_from:
 ---
 I am a second-year master’s student in Mechanical Engineering at Stanford University and will complete my M.S. degree in June 2026. I intend to pursue a PhD degree beyond my master’s program and will remain a student following the summer of 2026.
 
-My work focuses on tactile-informed control and robotic sensing, with hands-on experience in developing wearable sensing systems and integrating sensor data with control and learning pipelines. I am currently working in the Biomimetics and Dexterous Manipulation Lab (BDML)(https://bdml.stanford.edu) led by Professor Mark Cutkosky(https://bdml.stanford.edu/people/mark-cutkosky), developing a motion-capture glove for high resolution hand tracking.
+My work focuses on tactile-informed control and robotic sensing, with hands-on experience in developing wearable sensing systems and integrating sensor data with control and learning pipelines. I am currently working in the [Biomimetics and Dexterous Manipulation Lab (BDML)](https://bdml.stanford.edu) led by Professor [Mark Cutkosky](https://bdml.stanford.edu/people/mark-cutkosky), developing a motion-capture glove for high resolution hand tracking.
 
-I received my bachelor’s degree from Zhejiang University, where I worked on UAV control in FASTLab under Professors Fei Gao and Yanjun Cao.
+I received my bachelor’s degree from Zhejiang University, where I worked on UAV control in [FASTLab](https://github.com/ZJU-FAST-Lab) under Professors [Fei Gao](https://feigao-robotics.com/) and [Yanjun Cao](https://fast-fire.space/author/yanjun-cao-%E6%9B%B9%E7%87%95%E5%86%9B/).
 
 I am currently seeking a Summer 2026 internship in robotics, sensing, or control.
 
