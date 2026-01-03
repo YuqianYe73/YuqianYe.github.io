@@ -22,8 +22,8 @@ M.S. in Mechanical Engineering, 2024 – 2026 (Expected)
 <i class="fas fa-university"></i> [**Zhejiang University**](https://www.zju.edu.cn/english/)  
 B.Eng. in Agricultural Engineering, 2020 – 2024  
 
-<h2>Awards</h2>
-
+Awards
+======
 <p>
   <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
   <a href="https://2025.ieee-icra.org/program/awards-and-finalists/" target="_blank" rel="noopener">
