@@ -54,6 +54,7 @@ FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
   <div class="proj-text">
     <ul>
       <li>Designed and validated an FBG-based wearable sensor for finger motion and force sensing.</li>
+      <li>Validated a single-finger sensing module for bending and tactile force measurement.</li> 
       <li>Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.</li>
       <li>Enabled high-quality demonstration data collection for tactile-informed control and imitation learning.</li>
     </ul>
