@@ -61,8 +61,8 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
   </p>
   </div>
   <ul>
-    <li></li>Developed an ergonomic, FBG-based wearable device featuring a glue-free, clip-on mechanism and exposed finger pads to synchronously capture high-fidelity tactile data and hand kinematics.</li>
-    <li></li>Validated the sensor's exceptional sensitivity and robustness, including fully underwater operation, by successfully executing complex tasks such as cloth texture recognition, transparent tape edge(0.08mm) detection, and surgical manipulations.</li>
+    <li>Developed an ergonomic, FBG-based wearable device featuring a glue-free, clip-on mechanism and exposed finger pads to synchronously capture high-fidelity tactile data and hand kinematics.</li>
+    <li>Validated the sensor's exceptional sensitivity and robustness, including fully underwater operation, by successfully executing complex tasks such as cloth texture recognition, transparent tape edge(0.08mm) detection, and surgical manipulations.</li>
     <li>Engineered a novel half-ring fingertip sensor achieving high-precision static force sensing (error < 0.5 N) and a robust dynamic frequency response, capable of detecting surface edges as fine as 0.1mm.</li>
     <li>Built a high-fidelity data collection framework to accelerate robot learning of complex dexterous tasks.</li>
 
