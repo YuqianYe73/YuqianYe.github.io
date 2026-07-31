@@ -12,6 +12,8 @@ My work focuses on tactile-informed control and robotic sensing, with hands-on e
 
 I received my bachelor’s degree from Zhejiang University, where I worked on UAV control in [FASTLab](https://github.com/ZJU-FAST-Lab) under Professors [Fei Gao](https://feigao-robotics.com/) and [Yanjun Cao](https://fast-fire.space/author/yanjun-cao-%E6%9B%B9%E7%87%95%E5%86%9B/).
 
+---
+
 Education
 ======
 <i class="fas fa-university"></i> [**Stanford University**](https://www.stanford.edu/)  
@@ -19,6 +21,8 @@ M.S. in Mechanical Engineering, 2024 – 2026 (Expected)
 
 <i class="fas fa-university"></i> [**Zhejiang University**](https://www.zju.edu.cn/english/)  
 B.Eng. in Agricultural Engineering, 2020 – 2024  
+
+---
 
 Selected Awards & Honors
 ======
@@ -39,6 +43,8 @@ Selected Awards & Honors
   <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
     Zhejiang University First-Class Academic Scholarship<br>
 </p>
+
+---
 
 Projects
 ======
