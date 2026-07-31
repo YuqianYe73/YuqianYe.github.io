@@ -48,7 +48,7 @@ Selected Awards & Honors
 
 Projects
 ======
----
+
 TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads
 ------
 Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University  
