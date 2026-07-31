@@ -60,7 +60,7 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
     Submitted to IEEE Robotics and Automation Letters for review
   </p>
   </div>
-  
+</div>
   <ul>
     <li>Developed an ergonomic, FBG-based wearable device featuring a glue-free, clip-on mechanism and exposed finger pads to synchronously capture high-fidelity tactile data and hand kinematics.</li>
     <li>Validated the sensor's exceptional sensitivity and robustness, including fully underwater operation, by successfully executing complex tasks such as cloth texture recognition, transparent tape edge(0.08mm) detection, and surgical manipulations.</li>
