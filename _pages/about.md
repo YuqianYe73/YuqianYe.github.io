@@ -45,18 +45,22 @@ Selected Awards & Honors
 Projects
 ======
 
-FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
+TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads
 ------
 Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University  
 *Supervised by Prof. Mark Cutkosky · Feb 2025 – Present*
 
 <div class="proj-row">
   <div class="proj-media">
-    <video controls muted playsinline preload="metadata">
-      <source src="/images/FBG-camera.mp4" type="video/mp4">
-    </video>
+    <img src="/images/TacClip.jpg" alt="Tacclip prototype">
   </div>
   <div class="proj-text">
+  <p>
+    <strong>Yuqian Ye</strong>, Hao Li, Jingxi Xu, Haojun Feng, Seongheon Hong, Mark Cutkosky
+  </p>
+  <p>
+    Submitted to IEEE Robotics and Automation Letters for review
+  </p>
     <ul>
       <li>Designed and validated an FBG-based wearable sensor for finger motion and force sensing.</li>
       <li>Validated a single-finger sensing module for bending and tactile force measurement.</li> 
