@@ -17,7 +17,7 @@ I received my bachelor’s degree from Zhejiang University, where I worked on UA
 Education
 ======
 <i class="fas fa-university"></i> [**Stanford University**](https://www.stanford.edu/)  
-M.S. in Mechanical Engineering, 2024 – 2026 (Expected)  
+M.S. in Mechanical Engineering, 2024 – 2026 
 
 <i class="fas fa-university"></i> [**Zhejiang University**](https://www.zju.edu.cn/english/)  
 B.Eng. in Agricultural Engineering, 2020 – 2024  
